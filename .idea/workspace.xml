@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="001891ca-50b4-42de-89f1-4f6cf4c6acc8" name="Default Changelist" comment="" />
+    <list default="true" id="001891ca-50b4-42de-89f1-4f6cf4c6acc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/ShoesController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/MaleShoeSizes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +20,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -130,6 +141,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1csfghcmG2LbHjb1zGhHNl0XTM6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -137,8 +149,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -149,6 +162,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\blogServer\app\Http\Controllers" />
       <recent name="D:\project\blogServer\public" />
       <recent name="D:\project\blogServer\app\Http\Middleware" />
     </key>
@@ -175,7 +189,7 @@
       <workItem from="1591589606224" duration="20550000" />
       <workItem from="1591753704589" duration="1774000" />
       <workItem from="1591838808408" duration="2263000" />
-      <workItem from="1592191648057" duration="743000" />
+      <workItem from="1592191648057" duration="10654000" />
     </task>
     <servers />
   </component>
@@ -183,10 +197,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591670354488">
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1592277270764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-10.1920.1040@0.0.1920.1040" timestamp="1591670354488" />
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.-10.1920.1040@0.0.1920.1040" timestamp="1592277270764" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1592278412632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/1920.-10.1920.1040@0.0.1920.1040" timestamp="1592278412632" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1592268407412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-10.1920.1040@0.0.1920.1040" timestamp="1592268407412" />
+    <state x="824" y="231" key="RollbackChangesDialog" timestamp="1592278414315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="824" y="231" key="RollbackChangesDialog/0.0.1920.1040/1920.-10.1920.1040@0.0.1920.1040" timestamp="1592278414315" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591339498776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -195,5 +221,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-10.1920.1040@0.0.1920.1040" timestamp="1591838898398" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592301870147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-10.1920.1040@0.0.1920.1040" timestamp="1592301870147" />
   </component>
 </project>
